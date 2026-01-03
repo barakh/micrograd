@@ -1,0 +1,6 @@
+# Python dependencies for micrograd
+numpy
+matplotlib
+scikit-learn
+graphviz
+jupyter
